@@ -11,3 +11,5 @@ your browser
 your os
 
 your device's specs
+
+thanks!
